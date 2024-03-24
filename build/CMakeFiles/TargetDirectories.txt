@@ -1,0 +1,4 @@
+/users/PAS0027/trainsn/opengl/mpas_resample/build/CMakeFiles/rebuild_cache.dir
+/users/PAS0027/trainsn/opengl/mpas_resample/build/CMakeFiles/edit_cache.dir
+/users/PAS0027/trainsn/opengl/mpas_resample/build/CMakeFiles/MPASResample.dir
+/users/PAS0027/trainsn/opengl/mpas_resample/build/CMakeFiles/GLAD.dir
